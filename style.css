@@ -1,0 +1,67 @@
+
+body{
+    background-image: url(degrade.jpeg);
+    padding: 0px 40px;
+    
+}
+
+#pagina{
+    background-color: #ADD8E6;
+}
+
+.listone{
+    text-align: center;
+    list-style:  none;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 0px 100px;
+    font-family: noto serif,serif;
+    
+}
+
+#objetivo{
+
+    text-align: center;
+    font-family: noto serif, serif;
+
+}
+
+h1,h2,h6 {
+    text-align: center;
+    list-style:  none;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 0px 100px;
+    font-family: 'Noto Serif', serif;
+}
+
+footer{
+   
+ text-decoration-color:#fff;
+background-color: black;
+text-align: center;
+padding-top: 15px;
+border-radius: 50px 50px 0px 0px;
+
+}
+
+img{    
+        background-color: #aaa;
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+        align-items: center;
+        overflow: hidden;
+        position: relative;
+        
+      
+}
+
+.titulo{
+    margin: 30px;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Lemonada', cursive;
+}
